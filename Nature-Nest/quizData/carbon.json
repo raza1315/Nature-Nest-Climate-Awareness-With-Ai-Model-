@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "Q": "Fires release the carbon stored in plants, so measuring the extent and severity of forest fires around the globe is an important ingredient in understanding the carbon cycle.",
+      "choices": [
+        {
+          "option": "True",
+          "flag": true
+        },
+        {
+          "option": "False",
+          "flag": false
+        }
+      ],
+      "sol": "True : Using NASA satellites such as Landsat, people can study the severity, size and location of forest fires from space, and we can estimate how much carbon is released into the atmosphere as the fires burn."
+    },
+    {
+      "Q": "Which one of these increases the level of carbon dioxide in our atmosphere?",
+      "choices": [
+        {
+          "option": "Cutting down trees",
+          "flag": false
+        },
+        {
+          "option": "Transportation",
+          "flag": false
+        },
+        {
+          "option": "Energy",
+          "flag": false
+        },
+        {
+          "option": "All of the above",
+          "flag": true
+        }
+      ],
+      "sol": "All of the above : Every time we drive a car, take a flight, burn fossil fuels for energy, or cut down trees or clear land of vegetation, we add carbon dioxide into the atmosphere."
+    },
+    {
+      "Q": "Why do levels of carbon dioxide in the atmosphere fall during the summer in the Northern Hemisphere?",
+      "choices": [
+        { "option": "More people live at high latitudes in the Northern Hemisphere and they burn less fossil fuel and wood for heating in the summer.", "flag": false },
+        { "option": "People in the Northern Hemisphere drive more in the summer, thus releasing more carbon dioxide into the air.", "flag": false },
+        { "option": "The Northern Hemisphere is covered by a significant amount of vegetation. During the summer this vegetation takes up more carbon dioxide, and during the winter, when it decays, it releases more carbon dioxide.", "flag": true }
+      ],
+      "sol": "The Northern Hemisphere is covered by a significant amount of vegetation. During the summer this vegetation takes up more carbon dioxide, and during the winter, when it decays, it releases more carbon dioxide.: In contrast to the Northern Hemisphere, the Southern Hemisphere is covered by more ocean than vegetation."
+    },
+    {
+      "Q": "Plants use carbon dioxide and water to make their own food through the process of photosynthesis. When they are performing photosynthesis, plants reflect light strongly in which of the following wavelengths?",
+      "choices": [
+        { "option": "Near-infrared", "flag": true },
+        { "option": "Visible", "flag": false },
+        { "option": " Ultraviolet", "flag": false },
+        { "option": "All of the above", "flag": false }
+      ],
+      "sol": "Near-infrared: Plants such as trees, grasses and crops that are photosynthesizing reflect strongly in infrared light (light with wavelengths longer than those of visible light). We cannot see infrared light, but instruments on satellites like the Landsat satellite can. By precisely measuring the amount of infrared light reflected by plants, we can get a handle on the health of that vegetation."
+    },
+    {
+        "Q":"Plants on land have taken in approximately half of the carbon dioxide that humans have put into the atmosphere over the last several decades.",
+        "choices":[
+            { "option": "False", "flag": false },
+            { "option": "True", "flag": true }
+
+        ],
+        "sol": "False: Plants have taken up about a quarter, not half, of the carbon dioxide we've pumped into our air over the last several decades. When plants have enough water and nitrogen, they tend to grow more if there is a lot of carbon dioxide in the air. As we add more carbon dioxide to the air (through burning of fossil fuels, cutting down trees and so on), the possible additional growth by vegetation may help counter some of our impacts. However, we may not be able to count on plants to continue to take up extra carbon dioxide, because plants have limits to the amount they can grow. In addition, as the planet warms (a result of our carbon emissions), we will see more drought in many places, and this will affect the amount of water available for plants’ growth."
+
+    }
+  ]
+}

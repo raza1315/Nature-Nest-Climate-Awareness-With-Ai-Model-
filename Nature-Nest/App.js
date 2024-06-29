@@ -1,20 +1,11 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-
+import { StyleSheet, StatusBar, Text, View } from 'react-native';
+import StackNavigation from './StackNavigation';
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+    <View style={{ backgroundColor: "lightgreen", width: "auto", flex: 1 }}>
+      <StatusBar translucent={true} barStyle="light-content" backgroundColor="transparent" />
+      <StackNavigation />
     </View>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});

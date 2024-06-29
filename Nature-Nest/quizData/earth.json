@@ -1,0 +1,89 @@
+{
+    "questions": [
+      {
+        "Q": "What proportion of the Earth’s land is covered by cities and urban areas?",
+        "choices": [
+          {
+            "option": "1 percent or less",
+            "flag": false
+          },
+          {
+            "option": "3 percent",
+            "flag": true
+          },
+          {
+            "option": "10 percent",
+            "flag": false
+          }, 
+          {
+            "option": "25 percent",
+            "flag": false
+          }
+         
+        ],
+        "sol": "3 percent: Today, over half of the world’s population lives in cities and urban areas and this is predicted to grow to 67 percent by 2050 (United Nations 2012). However, urban regions still cover only about 3 percent of the Earth’s total land area. Ever since their emergence, cities have been important hubs of economic, social and political activity, but such activity can come at a price for the environment, for example through pollution and the loss of natural ecosystems. Scientists are working to better understand the impacts of future climate change on city dwellers."
+      },
+      {
+        "Q": "Snow is important because it:",
+        "choices": [
+          {
+            "option": "Builds ice sheets and glaciers",
+            "flag": false
+          },
+          {
+            "option": "Provides habitat for wildlife",
+            "flag": false
+          },
+          {
+            "option": "Is an important source of water",
+            "flag": false
+          },
+          {
+            "option": "All of the above",
+            "flag": true
+          }
+        
+        ],
+        "sol": "All of the above: Earth's ice sheets and glaciers are made up of thousands of years of accumulated snowfall tightly compacted into ice. Snow located on top of sea ice offers important habitats for animals such as seals that use the snow to hide their young from predators. Snowfall on mountains and its subsequent melt increases stream flow and provides people all around the world with vital freshwater."
+      },
+      {
+        "Q": "Which of the following things can we accomplish by observing our home planet from space satellites?",
+        "choices": [
+          {
+            "option": "Measure the severity of a forest fire after the burn",
+            "flag": false
+          },
+          {
+            "option": "Detect the healthiness of a field of corn",
+            "flag": false
+          },
+          {
+            "option": "Find coral reefs around the world",
+            "flag": false
+          },
+          {
+            "option": "All of the above",
+            "flag": true
+          }
+        ],
+        "sol": "All of the above: The Landsat satellite, a joint mission between NASA and the U.S. Geological Survey, can detect both visible and infrared light that are reflected off the surface of the Earth. This light allows us to measure the heat radiating from land that has been burned, assess how much plants are photosynthesizing to make food and distinguish coral reefs from other landforms across the globe."
+      },
+      {
+        "Q": "Aerosols are tiny solid or liquid particles suspended in the atmosphere. How can large concentrations of aerosols affect the temperature of Earth’s atmosphere?",
+        "choices": [
+          { "option": "They have no effect on Earth’s atmosphere", "flag": false },
+          { "option": "They can cool down or warm up the atmosphere depending on the type of particles", "flag": true }
+        ],
+        "sol": "They can cool down or warm up the atmosphere depending on the type of particles: Although most aerosols reflect sunlight, some also absorb it. An aerosol’s effect on light depends primarily on the composition and color of the particles. Broadly speaking, bright-colored or translucent particles tend to reflect radiation in all directions and back towards space, cooling the atmosphere. Examples are sulfates, nitrates and salt particles. Darker aerosols – like soot particles, or “black carbon” – can absorb significant amounts of light, warming the atmosphere but also shading the surface."
+      },
+      {
+        "Q": "The pull of gravity is the same everywhere on Earth.",
+        "choices": [
+          { "option": "True", "flag": false },
+          { "option": "False", "flag": true }
+        ],
+        "sol": "False: Gravity is determined by mass. Earth’s mass – for example, mountain ranges, ice caps and water stored underground – is not distributed equally and changes over time. The U.S./German Gravity Recovery and Climate Experiment (GRACE) and Gravity Recovery and Climate Experiment Follow-On (GRACE-FO) satellites, are tracking Earth’s gravitational field in unprecedented detail and tell us that since 1993, Earth’s ice sheets are melting at an alarming average rate of 428 billion metric tons per year."
+      }
+    ]
+  }
+  

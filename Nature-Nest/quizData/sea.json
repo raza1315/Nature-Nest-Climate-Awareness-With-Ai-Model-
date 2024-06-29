@@ -1,0 +1,71 @@
+{
+    "questions": [
+      {
+        "Q": "Sea level has remained fairly constant throughout Earth's history.",
+        "choices": [
+          {
+            "option": "True",
+            "flag": false
+          },
+          {
+            "option": "False",
+            "flag": true
+          }
+         
+        ],
+        "sol": "False: Over long geological timescales, changes in the shape of the ocean basins and in land-sea distribution affect sea level. During the past few million years' ice age cycles, sea level has varied by more than a hundred meters. However, according to a reconstruction by Kemp et al. 2011, 20th century sea-level rise on the U.S. Atlantic coast is faster than at any time in the past two thousand years."
+      },
+      {
+        "Q": "What percentage of heat from global warming has the ocean absorbed in the past 40 years?",
+        "choices": [
+          {
+            "option": "11%",
+            "flag": false
+          },
+          {
+            "option": "35%",
+            "flag": false
+          },
+          {
+            "option": "90%",
+            "flag": true
+          }
+        ],
+        "sol": "90%: Water resists changes in temperature; it is slow to heat up and slow to cool down. In scientific terms, water has high heat capacity. This means that, so far, Earth's ocean has been able to absorb and hold a majority of the heat from Earth's atmosphere."
+      },
+      {
+        "Q": "Melting sea ice has the potential to raise sea level by several meters.",
+        "choices": [
+          {
+            "option": "True",
+            "flag": false
+          },
+          {
+            "option": "False",
+            "flag": true
+          }
+        ],
+        "sol": "False: Melting sea ice cannot raise global sea level since the ice is already floating. (Think of an ice cube melting in a glass full of water.) However, Arctic sea ice is thinning and the long-term summer average has decreased by 34 percent since 1979. Ice from glaciers and ice sheets, which form on land, does add water to Earth's ocean when it melts and does contribute to sea level rise."
+      },
+      {
+        "Q": "The normal temperature range for ocean surface water is:",
+        "choices": [
+          { "option": "-2 to 40°C", "flag": false },
+          { "option": "-5 to 50°C", "flag": false },
+          { "option": "4.5 to 18°C", "flag": false },
+          { "option": "-2 to 35°C", "flag": true }
+        ],
+        "sol": "-2 to 35°C: Very cold and very salty water sinks to become deep water in Earth's polar regions, while warm water tends to remain on the surface in tropical waters. Fresh water freezes at 0°C, but sea water freezes at colder temperatures because it contains salt."
+      },
+      {
+        "Q": "What percentage of the world's population lives within 100 kilometers of the shoreline?",
+        "choices": [
+          { "option": "about 30%", "flag": true },
+          { "option": "about 60%", "flag": false },
+          { "option": "about 70%", "flag": false }
+        ],
+        "sol": "about 30%: According to the World Resources Institute, in 1995 2.2 billion people, or 39 percent of the world's population, lived on or within 100 kilometers of a seashore. Recent studies reveal that up to 600 million people live in Low Elevation Coastal Zones and 200 million people live within coastal flood plains."
+      }
+    ]
+  }
+  

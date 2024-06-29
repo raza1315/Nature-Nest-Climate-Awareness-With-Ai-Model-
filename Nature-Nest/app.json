@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Nature-Nest",
-    "slug": "Nature-Nest",
+    "name": "nature-nest",
+    "slug": "nature-nest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,10 +18,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.razaaa2gud.naturenest"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f3c85fdf-82f6-478c-9951-9ee41e88aac9"
+      }
+    },
+    "plugins": [
+      "expo-build-properties"
+    ]
   }
 }

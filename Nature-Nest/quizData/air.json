@@ -1,0 +1,90 @@
+{
+  "questions": [
+    {
+      "Q": "What are some forms of air pollution?",
+      "choices": [
+        {
+          "option": "Smoke",
+          "flag": false
+        },
+        {
+          "option": "Haze or smog",
+          "flag": false
+        },
+        {
+          "option": "CO2",
+          "flag": false
+        },
+        {
+          "option": "All of the above",
+          "flag": true
+        }
+      ],
+      "sol": "All of the above: Air pollution includes smoke, soot, carbon monoxide, sulfur dioxide, CO2, dust, and anything that is unhealthy for life on Earth. Most of these pollutants result from burning biomass (biological material usually from plants) or fossil fuels (coal and gasoline)."
+    },
+    {
+      "Q": "For how long do dust and soot generally remain in the air?",
+      "choices": [
+        {
+          "option": "1 day",
+          "flag": false
+        },
+        {
+          "option": "10 days",
+          "flag": true
+        },
+        {
+          "option": "20 days",
+          "flag": false
+        },
+        {
+          "option": "1 month",
+          "flag": false
+        }
+      ],
+      "sol": "10 days: On average, this is how long it takes for dust, soot and water-soluble chemicals to be washed out of the atmosphere by falling rain."
+    },
+    {
+      "Q": "What type of pollution is not pumped out directly from cars and trucks?",
+      "choices": [
+        {
+          "option": "Volatile organic compounds",
+          "flag": false
+        },
+        {
+          "option": "Carbon monoxide",
+          "flag": false
+        },
+        {
+          "option": "Ground-level ozone",
+          "flag": true
+        },
+        {
+            "option": "Nitrogen dioxide",
+            "flag": false
+          }
+      ],
+      "sol": "Ground-level ozone: Ground-level ozone (as opposed to ozone in the ozone layer high up in the atmosphere) is a pollutant that burns the lungs when inhaled. Ozone at the Earth’s surface is a main ingredient in smog but is not emitted directly from car exhausts. It is formed when pollution from vehicles, factories and other sources reacts in sunlight. Sunny California has the perfect conditions for unhealthy levels of ozone to form."
+    },
+    {
+      "Q": "Which type of air pollution is most difficult to measure from space?",
+      "choices": [
+        { "option": "Nitrogen dioxide", "flag": false },
+        { "option": "Volatile organic compounds", "flag": false },
+        { "option": "Sulfur dioxide", "flag": false },
+        { "option": "Ground-level ozone", "flag": true }
+      ],
+      "sol": "Ground-level ozone: NASA satellites have been measuring the amount of ozone in our atmosphere for over 30 years. However, since most of the ozone exists high in the stratosphere, it is difficult to measure ozone levels in the troposphere precisely, the layer of the atmosphere closest to the surface where we live and breathe. Pollutants in the troposphere measured by the Aura satellite include sulfur dioxide, nitrogen dioxide and some volatile organic compounds (such as formaldehyde)."
+    },
+    {
+      "Q": "Plants on land have taken in approximately half of the carbon dioxide that humans have put into the atmosphere over the last several decades.",
+      "choices": [
+        { "option": "Good", "flag": false },
+        { "option": "Bad", "flag": false },
+        { "option": "Both", "flag": true },
+        { "option": "Neither", "flag": false }
+      ],
+      "sol": "Both: Ozone is a gas made of three atoms of oxygen and occurs in both Earth’s upper atmosphere and at ground level. It can be good or bad for us depending on where it is found. When in or above the stratosphere (the higher atmosphere that ranges from 5 to 11 miles up), ozone forms a crucial sunscreen – the ozone layer – that protects us from the harmful ultraviolet rays of the sun. But ozone can also act as a pollutant at ground level, formed when pollution (say from cars) reacts with sunlight. A main ingredient of smog is ozone, which burns the lungs when breathed in and can trigger asthma attacks. NASA monitors the ozone layer and lower-level ozone using satellites and instruments on planes and on the ground."
+    }
+  ]
+}
